@@ -4,18 +4,18 @@
 
 ![](task_example.png)
 
-### Виды ухудшения качества кадра:
+### 1. Виды ухудшения качества кадра:
 - загрязнение
 - запотевание
 - запыление
 - повреждение твердыми частицами с ветром
 - и многое другое
 
-### Метрика оценивания решений на лидерборде
+### 2. Метрика оценивания решений на лидерборде
 
 IoU -  её код можно посмотреть в файле metric_iou.py
 
-### Некоторые возможные направления работы:   
+### 3. Некоторые возможные направления работы:   
    
 1. Поиск и анализ существующих подходов  
   
@@ -24,7 +24,7 @@ IoU -  её код можно посмотреть в файле metric_iou.py
 - https://sh-tsang.medium.com/review-soilingnet-soiling-detection-on-automotive-surround-view-cameras-34a108b3506f (https://drive.google.com/drive/folders/1q51oyvx2_SFPts2XgSnKnaVc8ijZ6tKs)  
 - https://arxiv.org/pdf/1905.01492 https://arxiv.org/pdf/2007.00801 https://github.com/valeoai/WoodScape?tab=readme-ov-file  
   
-2. Данные:   
+2. Работа с данными 
    
 - улучшение существующей разметки   
 - поиск открытых реальных данных для решения подобной задачи (Soiling Detection dataset https://drive.google.com/drive/folders/1q51oyvx2_SFPts2XgSnKnaVc8ijZ6tKs и другие)  
@@ -35,7 +35,7 @@ IoU -  её код можно посмотреть в файле metric_iou.py
 для генерации синтетики (conditional GAN -like, pix2pix -like, подходы из https://habr.com/ru/companies/nornickel/articles/676296/ или более современные подходы)   
 - другое?   
    
-3. Алгоритм:   
+3. Работа с алгоритмом
    
 - настройка правильной валидации   
 - проверка классических эвристик   
@@ -47,3 +47,5 @@ IoU -  её код можно посмотреть в файле metric_iou.py
 https://docs.lightly.ai/self-supervised-learning/getting_started/main_concepts.html   
 - ансамбли подходов   
 - другое?
+
+### 4. Q&A
