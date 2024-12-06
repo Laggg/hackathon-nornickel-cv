@@ -1,4 +1,6 @@
-## [Хакатон Норникель 2024](https://nornickel-hackathon.ru/). Задача «Грязные дела»
+# [Хакатон Норникель 2024](https://nornickel-hackathon.ru/)
+
+## Задача «Грязные дела»
 
 ![](task_example.png)
 
