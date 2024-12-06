@@ -1,5 +1,5 @@
 # Хакатон Норникель 2024. Задача «Грязные дела»
-https://nornickel-hackathon.ru/
+### https://nornickel-hackathon.ru/
 ![](task_example.png)
 
 Некоторые возможные направления работы:   
