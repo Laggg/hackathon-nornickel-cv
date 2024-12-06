@@ -36,16 +36,13 @@ b. Работа с данными
 - другое?   
    
 c. Работа с алгоритмом
-   
-- настройка правильной валидации   
+    
 - проверка классических эвристик   
 - подбор архитектуры dl модели   
-- аугментации  
-- лоссы   
+- аугментации/лоссы
 - доп штрафы с кастомной логикой (как тут для пузырьков? https://habr.com/ru/companies/ods/articles/705020/)  
-- какой- то претрейн на других данных или на себе    
-https://docs.lightly.ai/self-supervised-learning/getting_started/main_concepts.html   
-- ансамбли подходов   
+- какой- то претрейн на других данных или на себе? https://docs.lightly.ai/self-supervised-learning/getting_started/main_concepts.html   
+- ансамбли подходов
 - другое?
 
 ### 4. Q&A
