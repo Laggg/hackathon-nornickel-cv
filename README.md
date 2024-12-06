@@ -45,7 +45,7 @@ c. Работа с алгоритмом
 - подбор архитектуры dl модели   
 - аугментации/лоссы
 - доп штрафы с кастомной логикой (как тут для пузырьков? https://habr.com/ru/companies/ods/articles/705020/)  
-- какой- то претрейн на других данных или на себе? https://docs.lightly.ai/self-supervised-learning/getting_started/main_concepts.html   
+- какой- то претрейн на других данных или на части своих данных? https://docs.lightly.ai/self-supervised-learning/getting_started/main_concepts.html   
 - ансамбли подходов
 - другое?
 
