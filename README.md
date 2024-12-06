@@ -1,2 +1,3 @@
-# hackathon-nornickel-cv
+# https://nornickel-hackathon.ru/
+
 Хакатон Норникель: Интеллектуальные горизонты. Трек по задаче: Грязные дела
