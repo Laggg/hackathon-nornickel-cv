@@ -7,7 +7,7 @@
    
 0. Подходы других:  
   
-- Soiling Detection / Сontamination  
+- Soiling Detection / Camera contamination
 - https://developer.nvidia.com/blog/?p=13906  
 - https://sh-tsang.medium.com/review-soilingnet-soiling-detection-on-automotive-surround-view-cameras-34a108b3506f (https://drive.google.com/drive/folders/1q51oyvx2_SFPts2XgSnKnaVc8ijZ6tKs)  
 - https://arxiv.org/pdf/1905.01492 https://arxiv.org/pdf/2007.00801 https://github.com/valeoai/WoodScape?tab=readme-ov-file  
