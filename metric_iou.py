@@ -4,11 +4,11 @@ import numpy as np
 def iou(y_true, y_pred, class_label):
     y_true = y_true == class_label
     y_pred = y_pred == class_label
-    if y_true.sum() == 0 and y_pred.sum() == 0:
-        return 1.0
     inter = (y_true & y_pred).sum()
     union = (y_true | y_pred).sum()
     return inter / (union + 1e-8)
+
+# final_iou = (iou(y_true, y_pred, class_label=1)+iou(y_true, y_pred, class_label=0))/2
 
 # 1 пример
 y_true = np.array([[0,0,0],
